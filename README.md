@@ -80,10 +80,6 @@ spec:
 
 The generated YAML files adhere to the SecureCodeBox resource format. For more information on the SecureCodeBox resource format and available parameters, refer to the [SecureCodeBox documentation](https://www.securecodebox.io/docs/scanners/nmap).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributors
 
 - [Bulitha kawushika](https://github.com/bulithakawushika)
