@@ -1,5 +1,4 @@
-# User Interactive CLI Tool for Creating SecureCodeBox Scans.
-# (Go language)
+# User Interactive CLI Tool for Creating SecureCodeBox Scans. (Go lang)
 
 This repository contains a simple Go language CLI tool that allows users to create SecureCodeBox resource files by providing inputs through the command line interface (CLI). The tool creates resource files based on the SecureCodeBox resource format, specifically designed for executing Nmap scans.
 
